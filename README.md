@@ -140,7 +140,7 @@ print("Test Reward:", total_reward)
 ```text
 State Value Function:
 
-<img width="370" height="173" alt="image" src="https://github.com/user-attachments/assets/f246bd99-ed2b-4824-9675-a85510725bea" />
+<img width="370" height="173" alt="image" src="https://github.com/user-attachments/assets/aa5eea82-5c87-43ba-810d-3c3d08a173ce" />
 
 
 ```
