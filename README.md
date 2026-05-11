@@ -137,13 +137,10 @@ print("Test Reward:", total_reward)
 
 # Output
 
-```text
-State Value Function:
-
-<img width="370" height="173" alt="image" src="https://github.com/user-attachments/assets/aa5eea82-5c87-43ba-810d-3c3d08a173ce" />
 
 
-```
+<img width="384" height="211" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/a9205619-d50a-4e00-893d-f409c9745040" />
+
 
 ---
 
